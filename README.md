@@ -16,3 +16,5 @@ Once installed, source files can be found under _src/main/java/codechallenge/rob
 		   * __robot_movement_err2.txt__ - Error: Unrecognisable command 'LEFTTT'
 		   * __robot_movement_err.txt__ - no anomaly	
 	</pre>
+  *note*: By default, configuration file __ioof_robot.properties__ will be read for four default boundaries.
+
