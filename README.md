@@ -7,7 +7,7 @@ _git clone https://github.com/SpenserKao/CodingChallenge-RobotMovement.git_
 Once installed, source files can be found under _src/main/java/codechallenge/robotmovement_
 
 ## Test
-   Usage: _Java -jar &lt;jar file&gt; &lt;Command Filegt;_<br/>
+   Usage: _Java -jar &lt;jar file&gt; &lt;Command File&gt;_<br/>
 	 where, 
 	 <pre>
 		&lt;jar file&gt; should be CodingChallenge_Robot.jar
