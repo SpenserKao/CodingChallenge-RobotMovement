@@ -23,7 +23,7 @@ Correspondingly, JUnit-based test source files are under _src/test/java/codechal
    Usage: _Java -jar &lt;jar file&gt; &lt;Command File&gt;_<br/>
 	 Where, 
 	 <pre>
-		_&lt;jar file&gt;_ should be __robotmovement.jar__; and <br/>
+		_&lt;jar file&gt;_ should be __robotmovement.jar__; and
 		_&lt;Command File&gt;_ can find one of following three files for respective scenario:
 		   * __movements_err1.txt__ - Error: Unrecognisable command 'LEFTTT'
 		   * __movements_err2.txt__ - Error: Unrecognisable facing (direction) input info 'EASTTTT'
