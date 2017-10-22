@@ -10,7 +10,7 @@ Correspondingly, JUnit-based test source files are under _src/test/java/codechal
 ## Test
 ### Unit test
    Usage: _Java -cp &lt;class search path of directories and zip/jar files&gt; &lt;Unit test class &gt;_<br/>
-	Three unit test classes have been created: _PositionTest_, _TabletopTest_ and _RobotTest_.
+	Three unit test classes have been created: _PositionTest_, _TabletopTest_ and _RobotTest_.<br/>
 	The commands to execute them are as follows:
 	<pre>
 	   * _java -cp robotmovement_unittest.jar;junit-4.8.2.jar org.junit.runner.JUnitCore codechallenge.robotmovement.PositionTest_
