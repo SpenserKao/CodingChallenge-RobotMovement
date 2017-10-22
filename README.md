@@ -10,7 +10,6 @@ Correspondingly, JUnit-based test source files are under _src/test/java/codechal
 ## Test
 ### Unit test
    Usage: _Java -cp &lt;class search path of directories and zip/jar files&gt; &lt;Unit test class &gt;_<br/>
-<<<<<<< HEAD
 	Three unit test classes have been created: _PositionTest_, _TabletopTest_ and _RobotTest_.
 	The commands to execute them are as follows:
 	<pre>
@@ -24,7 +23,6 @@ Correspondingly, JUnit-based test source files are under _src/test/java/codechal
    Usage: _Java -jar &lt;jar file&gt; &lt;Command File&gt;_<br/>
 	 Where, 
 	 <pre>
-<<<<<<< HEAD
 		_&lt;jar file&gt;_ should be __robotmovement.jar__; and <br/>
 		_&lt;Command File&gt;_ can find one of following three files for respective scenario:
 		   * __movements_err1.txt__ - Error: Unrecognisable command 'LEFTTT'
