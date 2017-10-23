@@ -9,7 +9,7 @@ Correspondingly, JUnit-based test source files are under _src/test/java/codechal
 
 ## Test
 ### Unit test
-   Usage: _Java -cp &lt;class search path of directories and zip/jar files&gt; &lt;Unit test class &gt;_<br/>
+   Usage: _Java -cp &lt;class search path of directories and zip/jar files&gt; &lt;Unit test class&gt;_<br/>
 	Three unit test classes have been created: _PositionTest_, _TabletopTest_ and _RobotTest_.<br/>
 	Without IDE, such as Eclipse or NetBeans, or building automation tool, such as Maven or Gradle, the simplest way of conducting unit test is going through commands line, as examples shown follows:
 	<pre>
