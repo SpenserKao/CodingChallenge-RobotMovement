@@ -42,8 +42,8 @@ public class Robot {
         } catch (IOException | NumberFormatException e) {
             System.out.println("Either the properties file named ioof_robot.properties is missing,\n"
                             + "or the four-boundary data there is incomplete,\n"
-                            + "we are defaulting the (north, south, east, west) boundaries as (4, 0, 4, 0).\n");
-            this.table = new Tabletop(4, 0, 4, 0);		
+                            + "we are defaulting the (north, south, east, west) boundaries as (5, 0, 5, 0).\n");
+            this.table = new Tabletop(5, 0, 5, 0);		
         } 
     } 
   
