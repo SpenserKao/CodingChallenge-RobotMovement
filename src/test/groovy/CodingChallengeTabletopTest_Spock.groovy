@@ -31,12 +31,12 @@ class CodingChallengeTabletopTest_Spock extends Specification {
 			tt.getWestBound() == 0			
 	} 
 	
-	@Unroll ("Does following point fall within tabletop's boundaries? (#posX, #posY)")
+	@Unroll ("Does following point fall inBounds tabletop's boundaries? (#posX, #posY)")
 	def "test if points are within tabletop's boundaries"() {	
-		given: "test within boundaries"
+		given: "test inBounds boundaries"
 			tt = new Tabletop(5, 0, 5, 0)
 		expect:		
-			tt.within(posX, posY) == result
+			tt.inBounds(posX, posY) == result
 		where:
 			posX | posY | result			
 			3 | 3 | true
@@ -51,7 +51,7 @@ class CodingChallengeTabletopTest_Spock extends Specification {
 		given: "test outside boundaries"
 			tt = new Tabletop(5, 0, 5, 0)
 		expect:		
-			tt.within(posX, posY) == result
+			tt.inBounds(posX, posY) == result
 		where:
 			posX | posY | result			
 			5 | 6 | false
