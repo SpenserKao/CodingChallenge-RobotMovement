@@ -7,7 +7,7 @@ Refer to <a href="image/finding-url-or-zip-file.jpg">screenshot</a> to see how t
 Then execute the command in following syntax to git-clone the content:<br/>
 _git clone &lt;url&gt;_, <br/>
 currently the url is https://github.com/SpenserKao/CodingChallenge-RobotMovement.git, <br/>
-Or use unzip tool, or the like, to extract downloaded zip file.
+Or use an unzip tool, or the like, to extract downloaded zip file.
   
 ## Source
 Once installed, Java-based main source files can be found under _src/main/java/codechallenge/robotmovement_.<br/>
