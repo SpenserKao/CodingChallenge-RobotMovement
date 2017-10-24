@@ -35,5 +35,5 @@ Correspondingly, JUnit-based test source files are under _src/test/java/codechal
 		   * __movements_err2.txt__ - Error: Unrecognisable facing (direction) input info 'EASTTTT'
 		   * __movements_err.txt__ - no anomaly	
 	</pre>
-  **Note**: by default, configuration file __ioof_robot.properties__ will be retrieved for four default boundaries of tabletop. In the absence of the properties file, the boundaries will be defaulted to (5, 0, 5, 0).
+  **Note**: by default, configuration file __ioof_robot.properties__ will be retrieved for four boundaries of tabletop. In the absence of the properties file, the boundaries will be defaulted to (5, 0, 5, 0).
 
