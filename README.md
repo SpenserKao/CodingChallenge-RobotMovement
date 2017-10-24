@@ -1,7 +1,12 @@
 # CodingChallenge-RobotMovement
 
 ## Installation
-_git clone https://github.com/SpenserKao/CodingChallenge-RobotMovement.git_
+FIrst, retrieve content. From GitHub, either use _git-cloning_ or download zip file.
+Refer to <a href="image/finding-url-or-zip-file.jpg">screenshot</a> to see how to (1) get url for git-clong or (2) link to download zip file.
+
+Then execute the command in following syntax to git-clone the content:
+_git clone &lt;url&gt;, currently the url is https://github.com/SpenserKao/CodingChallenge-RobotMovement.git, 
+Or use unzip tool, or the like, to extract downloaded zip file.
   
 ## Source
 Once installed, Java-based main source files can be found under _src/main/java/codechallenge/robotmovement_.<br/>
