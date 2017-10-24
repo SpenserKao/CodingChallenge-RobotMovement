@@ -5,7 +5,8 @@ FIrst, retrieve content. From GitHub, either use _git-cloning_ or download zip f
 Refer to <a href="image/finding-url-or-zip-file.jpg">screenshot</a> to see how to (1) get url for git-clong or (2) link to download zip file.
 
 Then execute the command in following syntax to git-clone the content:
-_git clone &lt;url&gt;, currently the url is https://github.com/SpenserKao/CodingChallenge-RobotMovement.git, <br/>
+_git clone &lt;url&gt;, <br/>
+currently the url is https://github.com/SpenserKao/CodingChallenge-RobotMovement.git, <br/>
 Or use unzip tool, or the like, to extract downloaded zip file.
   
 ## Source
