@@ -23,7 +23,7 @@ Correspondingly, JUnit-based test source files are under _src/test/java/codechal
 	   * _java -cp robotmovement_unittest.jar;junit-4.8.2.jar org.junit.runner.JUnitCore codingchallenge.robotmovement.TabletopTest_
 	   * _java -cp robotmovement_unittest.jar;junit-4.8.2.jar org.junit.runner.JUnitCore codingchallenge.robotmovement.RobotTest_
 	</pre>
-  **Note**: The above commands are for Windows environment; <br/>for the Linux/Unix environment, be sure to replace classpath separator semicolon ';' with colon ':', 
+  **Note**: the above commands are for Windows environment; <br/>for the Linux/Unix environment, be sure to replace classpath separator semicolon ';' with colon ':', 
 
 ### Intergration test
    Usage: _Java -jar &lt;jar file&gt; &lt;Command File&gt;_<br/>
