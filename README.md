@@ -1,7 +1,7 @@
 # CodingChallenge-RobotMovement
 
 ## Installation
-FIrst, retrieve content. From GitHub, either use _git-clone_ or download zip file.<br/>
+First, retrieve content. From GitHub, either use _git-clone_ or download zip file.<br/>
 Refer to <a href="image/finding-url-or-zip-file.jpg">screenshot</a> to see how to (1) get url for git-cloning or (2) download zip file.
 
 Then execute the command in following syntax to git-clone the content:<br/>
