@@ -10,7 +10,7 @@ currently the url is https://github.com/SpenserKao/CodingChallenge-RobotMovement
 Or use an unzip tool, or the like, to extract downloaded zip file.
   
 ## Source
-Once installed, change into directory _CodingChallenge-RobotMovement_ as working directory.<br/>
+Once installed, change into _CodingChallenge-RobotMovement_ as working directory.<br/>
 From the working directory, Java-based main source files can be found under _src/main/java/codechallenge/robotmovement_.<br/>
 Correspondingly, JUnit-based test source files are under _src/test/java/codechallenge/robotmovement_.
 
